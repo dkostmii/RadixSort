@@ -131,7 +131,7 @@ int main()
     cout << "Radix sort:\n";
     try
     {
-        int arr[10] = {1, 6, 24, 12, 55, 128, 10976, 99, 0, -1};
+        int arr[10] = {1, 6, 24, 12, 55, 128, 10976, 99, 0, 1};
         int size = sizeof(arr) / sizeof(arr[0]);
         cout << endl;
         display(arr, size);
