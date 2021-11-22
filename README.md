@@ -16,4 +16,4 @@ Array: 1 6 24 12 55 128 10976 99 0 1
 Sorted Array: 0 1 1 6 12 24 55 99 128 10976
 ```
 
-Project is created in Visual Studio 2019 environment
+Project is updated to Visual Studio 2022 Environment
